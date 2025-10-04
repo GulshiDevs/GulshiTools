@@ -1,6 +1,6 @@
 {
   "android": {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.2.0",
     "buildNumber": 1,
     "minVersion": "1.0.0",
     "forceUpdate": false,
@@ -10,7 +10,7 @@
     "releaseNotes": "🎉 Initial Release\n\n✨ Features:\n• Calculator with history\n• QR Code Scanner & Generator\n• Age Calculator\n• Unit Converter\n• Tip Calculator\n• Flashlight\n• Google AdMob Ads integration"
   },
   "ios": {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.2.0",
     "buildNumber": 1,
     "minVersion": "1.0.0",
     "forceUpdate": false,
