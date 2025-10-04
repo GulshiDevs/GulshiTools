@@ -17,5 +17,11 @@
     "updateMethod": "store",
     "appStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
     "releaseNotes": "🎉 Initial Release\n\n✨ Features:\n• Calculator with history\n• QR Code Scanner & Generator\n• Age Calculator\n• Unit Converter\n• Tip Calculator\n• Flashlight\n• Google AdMob Ads integration"
+  },
+  "ads": {
+    "enabled": true,
+    "bannerAdsEnabled": true,
+    "interstitialAdsEnabled": true,
+    "interstitialFrequency": 3
   }
 }
